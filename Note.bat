@@ -1,0 +1,1 @@
+D:\\miniconda3\\envs\\notepad\\python.exe main.py
