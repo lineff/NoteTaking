@@ -1,1 +1,1 @@
-D:\\miniconda3\\envs\\notepad\\python.exe main.py
+the path of python main.py
